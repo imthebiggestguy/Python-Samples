@@ -1,4 +1,4 @@
-#The purpose of this file is to convert Python notebook code to a new saved PY file, and then run all of the accompanying scripts.
+#The purpose of this file is to convert multiple files stored as Python notebook code to new files in PY format. Then, run all of the scripts.
 
 import subprocess
 
